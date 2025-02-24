@@ -1,6 +1,6 @@
 Hi there, I'm Prannoy! 👋
 
-To give a brief bio about me, I am an **Industrial and Systems Engineering graduate** from the University of Illinois at Urbana-Champaign (UIUC), specializing in Data Science and Operations Research. As part of my coursework, I have successfully completed courses in Algorithms, Statistics, Linear Programming, Analysis of Network Data, Machine Learning, Database Systems, Deep Learning, Data Visualization, Big Data, Clustering, and Systems Optimization.
+To give a brief bio about me, I am an **Industrial and Systems Engineering graduate** from the University of Illinois at Urbana-Champaign (UIUC), specializing in Data Science and Operations Research. As part of my coursework, I have successfully **completed courses in Algorithms, Statistics, Linear Programming, Analysis of Network Data, Machine Learning, Database Systems, Deep Learning, Data Visualization, Big Data, Clustering, and Systems Optimization.**
 
 I enjoy solving problems at the intersection of **numerical analysis, statistics, operations research, and machine learning,** deriving actionable insights to inform decision-making. I have a strong academic background in engineering with an aptitude for mathematics, having completed my bachelor's in Mechanical Engineering.
 
