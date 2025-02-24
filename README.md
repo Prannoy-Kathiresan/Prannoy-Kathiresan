@@ -1,14 +1,14 @@
 Hi there, I'm Prannoy! 👋
 
-To give a brief bio about me, I am an Industrial and Systems Engineering graduate from the University of Illinois at Urbana-Champaign (UIUC), specializing in Data Science and Operations Research. As part of my coursework, I have successfully completed courses in Algorithms, Statistics, Linear Programming, Analysis of Network Data, Machine Learning, Database Systems, Deep Learning, Data Visualization, Big Data, Clustering, and Systems Optimization.
+To give a brief bio about me, I am an **Industrial and Systems Engineering graduate** from the University of Illinois at Urbana-Champaign (UIUC), specializing in Data Science and Operations Research. As part of my coursework, I have successfully completed courses in Algorithms, Statistics, Linear Programming, Analysis of Network Data, Machine Learning, Database Systems, Deep Learning, Data Visualization, Big Data, Clustering, and Systems Optimization.
 
-I enjoy solving problems at the intersection of numerical analysis, statistics, operations research, engineering, and machine learning, deriving actionable insights to inform decision-making. I have a strong academic background in engineering with an aptitude for mathematics, having completed my bachelor's in Mechanical Engineering.
+I enjoy solving problems at the intersection of **numerical analysis, statistics, operations research, and machine learning,** deriving actionable insights to inform decision-making. I have a strong academic background in engineering with an aptitude for mathematics, having completed my bachelor's in Mechanical Engineering.
 
-Regarding my personal capabilities, I believe my strength lies in getting tasks done efficiently, even in unfamiliar situations. I have 2.5 years of professional work experience at MRF Tyres, a leading tire manufacturer in India. Additionally, I have served as a graduate teaching assistant for 1.5 years as a fully funded student, covering diverse fields such as bioengineering, finance, and computer engineering. Currently, I am serving as a graduate research assistant at UIUC.
+Regarding my personal capabilities, I believe my strength lies in getting tasks done efficiently, even in unfamiliar situations. I have **2.5 years** of professional work experience at MRF Tyres, a leading tire manufacturer in India. Additionally, I have served as a **graduate teaching assistant for 1.5 years as a fully funded student**, covering diverse fields such as bioengineering, finance, and computer engineering. Currently, I am serving as a **graduate research assistant** at UIUC.
 
 Please feel free to reach out to me via:
-📧 Email: prannoy2@illinois.edu
-🔗 LinkedIn: linkedin.com/in/prannoy-k/
+📧 **Email:** `prannoy2@illinois.edu`
+🔗 **LinkedIn:** [linkedin.com/in/prannoy-k/](https://linkedin.com/in/prannoy-k/) 
 
 ## 🛠 Languages & Tools  
   
