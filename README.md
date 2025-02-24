@@ -7,7 +7,7 @@ I enjoy solving problems at the intersection of **numerical analysis, statistics
 Regarding my personal capabilities, I believe my strength lies in getting tasks done efficiently, even in unfamiliar situations. I have **2.5 years** of professional work experience at MRF Tyres, a leading tire manufacturer in India. Additionally, I have served as a **graduate teaching assistant for 1.5 years as a fully funded student**, covering diverse fields such as bioengineering, finance, and computer engineering. Currently, I am serving as a **graduate research assistant** at UIUC.
 
 Please feel free to reach out to me via:
-📧 **Email:** `prannoy2@illinois.edu`
+📧 **Email:** prannoy2@illinois.edu
 🔗 **LinkedIn:** [linkedin.com/in/prannoy-k/](https://linkedin.com/in/prannoy-k/) 
 
 ## 🛠 Languages & Tools  
